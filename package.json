@@ -1,0 +1,14 @@
+{
+  "name": "docker-demo-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mortentangen/docker-demo-world.git",
+  "author": "Morten S. Tangen <morten.tangen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
